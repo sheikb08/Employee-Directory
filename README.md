@@ -36,8 +36,6 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 * Run 'npm install' to install dependencies required for this project.
 * Run 'npm start' to deploy app
 
-# Deployment
-* https://bj-fitnesstracker.herokuapp.com/
 
 ## Screenshot  
 |![HTML Screenshot](images/screen.JPG) |![HTML Screenshot](images/screen2.JPG)
