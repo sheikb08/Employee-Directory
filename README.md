@@ -38,8 +38,12 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 
 
 ## Screenshot  
-|![HTML Screenshot](images/screen.jpg) |![HTML Screenshot](images/screen2.jpg)
+|![HTML Screenshot](images/screen.JPG) |![HTML Screenshot](images/screen2.JPG)
 
 ## Contributor
 * Brandon Johnson
+<<<<<<< HEAD
 * Repository: https://github.com/sheikb08/Employee-Directory
+=======
+* Repository: https://github.com/sheikb08/Fitness-Tracker
+>>>>>>> 7d8e121fb5a71899b20329639a58fcce5b79c983
