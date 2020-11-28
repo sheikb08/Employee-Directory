@@ -40,7 +40,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 * https://bj-fitnesstracker.herokuapp.com/
 
 ## Screenshot  
-|![HTML Screenshot](images/screen.jpg) |![HTML Screenshot](images/screen2.jpg)
+|![HTML Screenshot](images/screen.JPG) |![HTML Screenshot](images/screen2.JPG)
 
 ## Contributor
 * Brandon Johnson
